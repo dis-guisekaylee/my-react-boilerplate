@@ -1,0 +1,23 @@
+{
+  "name": "my-react-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dis-guisekaylee/my-react-boilerplate.git"
+  },
+  "keywords": [
+    "Node",
+    "React"
+  ],
+  "author": "Nick Karnik",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dis-guisekaylee/my-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dis-guisekaylee/my-react-boilerplate#readme"
+}
