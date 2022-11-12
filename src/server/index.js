@@ -1,4 +1,4 @@
-import WebServer from "./web.server";
+import WebServer from "./web.server.js";
 
 let webServer = new WebServer();
 webServer
